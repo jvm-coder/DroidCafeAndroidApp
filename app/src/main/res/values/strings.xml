@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="actionContact">Contact</string>
+    <string name="actionOrder">Order</string>
+    <string name="actionStatus">Status</string>
+    <string name="actionFavorites">Favorites</string>
+    <string name="actionOrderMsg">You selected Order.</string>
+    <string name="actionFavoritesMsg">You selected Favorites</string>
+    <string name="actionStatusMsg">You selected Status</string>
+    <string name="actionContactMsg">You selected Contact</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="textIntro">Droid Desserts</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="iceCreamSandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyos">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="donutOrderMsg">You Ordered a DONUT</string>
+    <string name="iceCreamOrderMsg">You Ordered an ICE-CREAM</string>
+    <string name="froyoOrderMsg">You Ordered a FROYO</string>
+    <string name="nameLabelText">Name</string>
+    <string name="enterNameHint">Enter your name</string>
+    <string name="addressLabelText">Address</string>
+    <string name="enterAddressHint">Enter the address</string>
+    <string name="phoneLabelText">Phone</string>
+    <string name="enterPhoneHint">Enter phone no.</string>
+    <string name="noteLabelText">Note</string>
+    <string name="enterNoteHint">Enter note</string>
+    <string name="deliveryLabelText">Choose a delivery method</string>
+    <string name="sameDayService">Same day messenger service</string>
+    <string name="nextDayDelivery">Next day ground delivery</string>
+    <string name="pickUp">Pick up</string>
+    <string name="titleActivityOrder">Order Activity</string>
+    <string-array name="arrayLabels">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
